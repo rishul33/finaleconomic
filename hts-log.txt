@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Oct 2022 03:06:57 at https://www.imf.org/en/Home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.imf.org/en/Home -O1 "C:\inetrship\econi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:12:50	Warning: 	Link https://www.imf.org/en/news/podcasts not scanned (follow robots meta tag)
+03:12:50	Warning: 	Link https://www.imf.org/en/email-subscription/index not scanned (follow robots meta tag)
+03:12:50	Warning: 	Link https://www.imf.org/en/live not scanned (follow robots meta tag)
+03:17:00	Error: 	Exit requested by shell or user
+03:17:00	Warning: 	File not added due to mirror cancel: https://www.imf.org/en/About/Factsheets/Sheets/2016/08/02/21/19/Exogenous-Shocks-Facility-High-Access-Component
+03:17:06	Warning: 	Link https://www.imf.org/en/news/searchnews not scanned (follow robots meta tag)
+03:17:06	Warning: 	Link https://www.imf.org/en/Videos/index not scanned (follow robots meta tag)
+03:17:06	Warning: 	Link https://www.imf.org/en/videos/view?category=1 not scanned (follow robots meta tag)
+03:17:06	Warning: 	Link https://www.imf.org/en/Videos/view?category=6 not scanned (follow robots meta tag)
+03:17:06	Warning: 	Link https://www.imf.org/en/Videos/view?category=11 not scanned (follow robots meta tag)
+03:17:06	Warning: 	Link https://www.imf.org/en/Videos/view?category=10 not scanned (follow robots meta tag)
+03:17:07	Warning: 	Link https://www.imf.org/en/Videos/view?category=12 not scanned (follow robots meta tag)
+03:17:07	Warning: 	Link https://www.imf.org/en/Videos/view?category=2 not scanned (follow robots meta tag)
+03:17:07	Warning: 	Link https://www.imf.org/en/Videos/view?category=3 not scanned (follow robots meta tag)
+03:17:07	Warning: 	Link https://www.imf.org/en/Videos/view?category=5 not scanned (follow robots meta tag)
+03:17:07	Warning: 	Link https://www.imf.org/en/Videos/view?category=8 not scanned (follow robots meta tag)
+03:17:07	Warning: 	Link https://www.imf.org/en/Videos/view?category=9 not scanned (follow robots meta tag)
+03:17:07	Warning: 	Link https://www.imf.org/en/Videos/view?category=7 not scanned (follow robots meta tag)
+03:17:08	Warning: 	Link https://www.imf.org/en/Videos/view?category=4 not scanned (follow robots meta tag)
+03:17:08	Warning: 	Link https://www.imf.org/en/Videos/view?category=22 not scanned (follow robots meta tag)
+03:17:08	Warning: 	Link https://www.imf.org/en/Videos/view?sort=mostrecent not scanned (follow robots meta tag)
+03:17:08	Warning: 	Link https://www.imf.org/en/Videos/view?sort=mostpopular not scanned (follow robots meta tag)
+03:17:09	Warning: 	Link https://www.imf.org/en/Publications not scanned (follow robots meta tag)
+03:17:11	Warning: 	Link https://www.imf.org/en/News/Podcasts/All-Podcasts/2022/09/22/camdessus-lecture-de-galhau not scanned (follow robots meta tag)
+03:17:14	Warning: 	Link https://www.imf.org/en/News/Podcasts not scanned (follow robots meta tag)
+03:17:16	Warning: 	Link https://www.imf.org/en/videos/index not scanned (follow robots meta tag)
+03:17:17	Error: 	"Not Found" (404) at link https://www.imf.org/en/AppMeasurement_Module_AudienceManagement.js (from assets.adobedtm.com/c7b988f076dc93cc20c734bc51e87dde0b81f134/satelliteLib-834e3fe4ac4ea890c36d061e19fc6cfc1b5dc5d0.js)
+03:17:17	Error: 	"Not Found" (404) at link https://www.imf.org/en/AppMeasurement.js (from assets.adobedtm.com/c7b988f076dc93cc20c734bc51e87dde0b81f134/satelliteLib-834e3fe4ac4ea890c36d061e19fc6cfc1b5dc5d0.js)
+03:17:17	Error: 	"Not Found" (404) at link https://www.imf.org/helpers/getObjectProperty.js (from assets.adobedtm.com/c7b988f076dc93cc20c734bc51e87dde0b81f134/satelliteLib-834e3fe4ac4ea890c36d061e19fc6cfc1b5dc5d0.js)
+03:17:17	Warning: 	Moved Temporarily for https://www.imf.org/en/
+03:17:17	Warning: 	File has moved from https://www.imf.org/en/ to /en/Home
+03:17:20	Warning: 	Link https://www.imf.org/en/Videos/view?vid=6057601298001 not scanned (follow robots meta tag)
+03:17:21	Warning: 	Link https://www.imf.org/en/email-subscription/login not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 27 seconds : 232 links scanned, 227 files written (20258678 bytes overall) [6500082 bytes received at 10366 bytes/sec], 17701180 bytes transferred using HTTP compression in 201 files, ratio 21%, 13.8 requests per connection
+(4 errors, 29 warnings, 0 messages)

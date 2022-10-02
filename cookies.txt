@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.imf.org	TRUE	/	FALSE	1999999999	imf#lang	en
+www.imf.org	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	4cba4uoicvpz1tzsj3ju4mbb
+www.imf.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.imf.org	TRUE	/	FALSE	1999999999	cookie_persistence	!O1vqfdeavK+7Qmf3sJ5orIh+xJ4RxoYx5nFtER3hpkkBKI6JuVPwVxGDBvhDAfLkbRShtL3OXPC3Pmc=
+.www.imf.org	TRUE	/	FALSE	1999999999	TS01e41fe4	01250698b295d3f15637c69c12e24ea746e9377bc2aafff1fb1af776dad11ce0b2eaff2027a2a37b14837517420c405a9494125bf2
+
